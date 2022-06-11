@@ -1,0 +1,39 @@
+
+o	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ªóŞŠ
+O
+java:S5993"9Change the visibility of this constructor to "protected".(¨ö¢†
+M	java:S106!"9Replace this use of System.out or System.err by a logger.(éüô}
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(¾îâ
+N	java:S106R"9Replace this use of System.out or System.err by a logger.(…ò£—
+m
+java:S3776a"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(¦×ëãùÿÿÿÿ
+P
+java:S1119c";Refactor the code to remove this label and the need for it.(­áÒ1
+S	java:S106j"9Replace this use of System.out or System.err by a logger.(Áÿ™âûÿÿÿÿ
+P
+java:S1119k";Refactor the code to remove this label and the need for it.(­áÒ1
+M	java:S106r"9Replace this use of System.out or System.err by a logger.(™ÜW
+P
+java:S1119s";Refactor the code to remove this label and the need for it.(­áÒ1
+S	java:S106z"9Replace this use of System.out or System.err by a logger.(­”ğØøÿÿÿÿ
+P
+java:S1119{";Refactor the code to remove this label and the need for it.(­áÒ1
+O	java:S106‚"9Replace this use of System.out or System.err by a logger.(¢úšÑ
+T
+java:S1854ˆ"=Remove this useless assignment to local variable "itemBooks".(ÜÙÃ×
+E
+java:S1481ˆ".Remove this unused "itemBooks" local variable.(ÜÙÃ×
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ÖÙÕÔúÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ïÑâûùÿÿÿÿ
+O	java:S106’"9Replace this use of System.out or System.err by a logger.(ìê”¡
+W	java:S125–"<This block of commented-out lines of code should be removed.(¡»¢üùÿÿÿÿ
+†
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(‹èÖÍ
+‚
+java:S1319"lThe type of "filterParams" should be an interface such as "List" rather than the implementation "ArrayList".(‹èÖÍ
+‡
+java:S1319a"lThe type of "filterParams" should be an interface such as "List" rather than the implementation "ArrayList".(¦×ëãùÿÿÿÿ
+g
+java:S2095W"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Áø’ûÿÿÿÿ
+^
+java:S2095V"HUse try-with-resources or close this "FileWriter" in a "finally" clause.(‹ÖÃ

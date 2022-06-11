@@ -1,0 +1,30 @@
+
+h
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 34 to the 15 allowed.(÷¤šÈ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Îñë
+7
+java:S6205 "Remove this redundant block.(¤ş•©ùÿÿÿÿ
+2
+java:S6205""Remove this redundant block.(©Ø“¤
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Á†¬üÿÿÿÿ
+N	java:S106&"9Replace this use of System.out or System.err by a logger.(²½ú“
+2
+java:S6205)"Remove this redundant block.(ç’Ø
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(©£íøùÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(Ÿ˜ªı
+2
+java:S62050"Remove this redundant block.(‡ğ­ÿ
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ãÒìñùÿÿÿÿ
+N	java:S1064"9Replace this use of System.out or System.err by a logger.(±áµ
+M	java:S1067"9Replace this use of System.out or System.err by a logger.(¡Œ‹<
+2
+java:S6205:"Remove this redundant block.(”¯Ü
+S	java:S106F"9Replace this use of System.out or System.err by a logger.(ñÏé¨úÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(•“çşüÿÿÿÿ
+S	java:S106]"9Replace this use of System.out or System.err by a logger.(ñÏé¨úÿÿÿÿ
+S	java:S106`"9Replace this use of System.out or System.err by a logger.(¶¯¼Âûÿÿÿÿ
+N	java:S106f"9Replace this use of System.out or System.err by a logger.(Îñë
+N	java:S106q"9Replace this use of System.out or System.err by a logger.(éèšë
+O	java:S106…"9Replace this use of System.out or System.err by a logger.(ŒĞÌé
+†
+java:S1319v"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(†È¶”

@@ -1,0 +1,16 @@
+
+[	java:S112@"FDefine and throw a dedicated exception instead of using a generic one.(‡§Þ‘
+[	java:S112k"FDefine and throw a dedicated exception instead of using a generic one.(¯¥÷³
+Q	java:S125;"<This block of commented-out lines of code should be removed.(ˆ˜ã
+N	java:S106V"9Replace this use of System.out or System.err by a logger.(´¹çÄ
+N	java:S106e"9Replace this use of System.out or System.err by a logger.(´¹çÄ
+]
+java:S11921"GDefine a constant instead of duplicating this literal "assets" 3 times.(Ñö¼š
+_
+java:S11920"IDefine a constant instead of duplicating this literal "response" 3 times.(Ó¤¿ž
+k
+java:S2095a"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(ÐÆÈ¦þÿÿÿÿ
+e
+java:S2095l"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(÷ýÊ
+i
+java:S2095`"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(è ÿÜùÿÿÿÿ
